@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+    <defs>
+      <linearGradient id="g" x1="0" x2="1">
+        <stop offset="0" stop-color="#070b10"/>
+        <stop offset="0.55" stop-color="#121923"/>
+        <stop offset="1" stop-color="#090b10"/>
+      </linearGradient>
+      <radialGradient id="r" cx="80%" cy="20%" r="70%">
+        <stop offset="0" stop-color="#1e9cff" stop-opacity=".35"/>
+        <stop offset="1" stop-color="#000" stop-opacity="0"/>
+      </radialGradient>
+    </defs>
+    <rect width="1200" height="700" fill="url(#g)"/>
+    <rect width="1200" height="700" fill="url(#r)"/>
+    <path d="M0 540 C240 470 390 570 610 520 C820 475 970 515 1200 450 L1200 700 L0 700 Z" fill="#020406"/>
+    <text x="80" y="120" fill="#cfd8e3" font-size="30" font-family="Arial" font-weight="700">BMW X FAN</text>
+    <text x="80" y="530" fill="white" font-size="64" font-family="Arial" font-weight="800">Detailing Room</text>
+    <text x="80" y="585" fill="#9ba7b5" font-size="28" font-family="Arial">Химчистка / детейлинг</text>
+    <rect x="80" y="620" width="170" height="6" rx="3" fill="#008cff"/>
+    <rect x="250" y="620" width="70" height="6" rx="3" fill="#8b36ff"/>
+    <rect x="320" y="620" width="70" height="6" rx="3" fill="#ff334f"/>
+    </svg>
